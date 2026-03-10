@@ -21,7 +21,7 @@ Extensive testing was done on a sample dataset. The simpler, lightweight model o
 | **🥇 1st** | **Linear Regression** | **1.00** | **4.93** |
 | 🥈 2nd | Gradient Boosting | 1.00 | 5.23 |
 | 🥉 3rd | Random Forest | 1.00 | 5.23 |
-| ❌ 4th | SARIMA | Negative | 64.86 |
+ 
 
 ## 💻 Tech Stack
 * **Language:** Python
